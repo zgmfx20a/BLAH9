@@ -1,14 +1,21 @@
-# BLAH9
+# Adapting Bioinformatics Data Systems in the Era of Foundational Models: Leveraging RAG and Low-Resource LLMs
 
-## Purpose
+## Author Chihiro Higuchi
+## Affiliation: National Institutes of Biomedical Innovation, Health and Nutrition (NIBIOHN) / Institute of Science Tokyo
 
-## Schedule
+Project Description:
 
-### 1st
+The National Institutes of Biomedical Innovation, Health, and Nutrition (NIBIOHN) and the Bioscience Database Center have been cataloging domestic bioinformatics data. This catalog was integrated into a cross-search system powered by the full-text search engine Elastic Search. However, the landscape changed dramatically with the introduction of ChatGPT in November 2022.
 
-### 3rd day
+While foundational models like ChatGPT offer considerable convenience, their reliance on token occurrence probabilities in language models is known to lead to hallucinations, independent of the factual accuracy of the texts used during pre-training. Moreover, the widespread use of such models could undermine our longstanding efforts in cataloging bioinformatics data. In response, we are exploring the use of Retrieval-Augmented Generation (RAG) to leverage our accumulated data in conjunction with foundational models.
 
-### 4th day
+Although multiple studies have demonstrated the efficacy of RAG, numerous methods have been proposed, and no consensus has been reached on which approach is most effective for bioinformatics data retrieval. Therefore, we believe it is necessary to rigorously evaluate these methods.
+
+For widespread public use, the system must be fully developed. One practical approach for implementing RAG involves using no-code tools like Dify, which simplifies the process but relies heavily on its user interface. Alternatively, although it requires Python coding, a solution utilizing Streamlit in combination with LangChain or LlamaIndex may also prove effective.
+
+As for Large Language Models (LLMs), until early 2024, deploying them required high-performance GPU environments. However, advancements such as model quantization and the release of systems like Ollama have made low-resource operation feasible. The recently introduced Entoropix technology is expected to further enable even more efficient use of LLMs with minimal resources.
+
+During the BLAH workshop, we aim to address these diverse issues and outline a clear path for future initiatives.
 
 ## Reference 
 
