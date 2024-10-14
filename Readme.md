@@ -5,7 +5,7 @@
 
 Project Description:
 
-The National Institutes of Biomedical Innovation, Health, and Nutrition (NIBIOHN) and the Bioscience Database Center have been cataloging domestic bioinformatics data. This catalog was integrated into a cross-search system powered by the full-text search engine Elastic Search. However, the landscape changed dramatically with the introduction of ChatGPT in November 2022.
+The National Institutes of Biomedical Innovation, Health, and Nutrition (NIBIOHN) and the Bioscience Database Center (NBDC) have been cataloging domestic bioinformatics data. This catalog was integrated into a cross-search system powered by the full-text search engine Elastic Search. However, the landscape changed dramatically with the introduction of ChatGPT in November 2022.
 
 While foundational models like ChatGPT offer considerable convenience, their reliance on token occurrence probabilities in language models is known to lead to hallucinations, independent of the factual accuracy of the texts used during pre-training. Moreover, the widespread use of such models could undermine our longstanding efforts in cataloging bioinformatics data. In response, we are exploring the use of Retrieval-Augmented Generation (RAG) to leverage our accumulated data in conjunction with foundational models.
 
