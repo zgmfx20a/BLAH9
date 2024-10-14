@@ -1,7 +1,7 @@
 # Adapting Bioinformatics Data Systems in the Era of Foundational Models: Leveraging RAG and Low-Resource LLMs
 
-## Author Chihiro Higuchi
-## Affiliation: National Institutes of Biomedical Innovation, Health and Nutrition (NIBIOHN) / Institute of Science Tokyo
+### Author Chihiro Higuchi
+### Affiliation: National Institutes of Biomedical Innovation, Health and Nutrition (NIBIOHN) / Institute of Science Tokyo
 
 Project Description:
 
