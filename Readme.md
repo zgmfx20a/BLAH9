@@ -19,4 +19,9 @@ During the BLAH workshop, we aim to address these diverse issues and outline a c
 
 ## Reference 
 
+- Sourav Banerjee et al. LLMs Will Always Hallucinate, and We Need to Live With This. https://arxiv.org/abs/2409.05746.
+- Darren Edge et al. From Local to Global: A Graph RAG Approach to Query-Focused Summarization. https://arxiv.org/abs/2404.16130.
+- Ollama. https://github.com/ollama/ollama.
+- Dify. https://dify.ai/.
+- Llamaindex. https://www.llamaindex.ai/.
 - https://github.com/xjdr-alt/entropix/tree/main
