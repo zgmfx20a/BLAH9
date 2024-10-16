@@ -24,4 +24,5 @@ During the BLAH workshop, we aim to address these diverse issues and outline a c
 - Ollama. https://github.com/ollama/ollama.
 - Dify. https://dify.ai/.
 - Llamaindex. https://www.llamaindex.ai/.
+- LightRAG. https://arxiv.org/abs/2410.05779.
 - entropix. https://github.com/xjdr-alt/entropix/tree/main
